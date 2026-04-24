@@ -21,10 +21,6 @@ O relógio é atualizado automaticamente a cada segundo, proporcionando uma expe
  - Minutos
  - Segundos
 
-- ✔ Atualização em tempo real
-- ✔ Interface simples e intuitiva
-- ✔ Layout moderno com efeito de sombra
-- ✔ Design responsivo para diferentes tamanhos de tela 📱💻
 
 ## 🎨 Design
 
